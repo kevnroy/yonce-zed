@@ -1,0 +1,14 @@
+theme:
+  name: Yonce
+  dark: true
+  colors:
+    accent: "#fc4384"
+    strings: "#e6db74"
+  syntax:
+    - keyword
+    - string
+anchors: &base
+  enabled: true
+merged:
+  <<: *base
+  count: 42

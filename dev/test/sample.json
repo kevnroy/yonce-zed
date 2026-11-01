@@ -1,0 +1,7 @@
+{
+  "name": "Yonce",
+  "dark": true,
+  "version": 1,
+  "palette": ["#fc4384", "#e6db74", "#98e342"],
+  "nested": { "enabled": false, "ratio": 0.75, "nothing": null }
+}

@@ -1,0 +1,12 @@
+[theme]
+name = "Yonce"
+appearance = "dark"
+version = 1
+
+[theme.colors]
+accent = "#fc4384"
+background = "#1c1c1c"
+
+[[theme.syntax]]
+capture = "keyword"
+color = "#fc4384"
